@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Maya",
+    "major": "Computer Science",
+    "grade": "A"
+  },
+  {
+    "name": "Etahn",
+    "major": "Data Science",
+    "grade": "B+"
+  },
+  {
+    "name": "Sophia",
+    "major": "Information Systems",
+    "grade": "A-"
+  }
+]
